@@ -1,0 +1,1 @@
+# openCV-mini-apps
